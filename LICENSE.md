@@ -20,6 +20,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-<p align="right" style="width: 100%; padding-top: 10px; border-top: 1px solid gray">
-	This project is open source. Click [here](https://github.com/CodeDojoOfficial/NativeInsert 'GitHub Repository') to contribute.
+---
+
+<p align="right">
+	This project is open source. Click <a href="https://github.com/CodeDojoOfficial/NativeInsert" title="GitHub Repository">here</a> to contribute.
 </p>
