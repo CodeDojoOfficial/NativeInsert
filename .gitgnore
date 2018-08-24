@@ -1,0 +1,44 @@
+###############################
+#                             #
+#   MAIN GITIGNORE FOR REPO   #
+#         NATIVEINSERT        #
+#                             #
+# This file contains a list   #
+# of file extensions that can #
+# not be commited on push     #
+# unless another gitignore is #
+# present.                    #
+#                             #
+###############################
+
+###############################
+#        JAVA RELATED         #
+###############################
+
+*.java
+*.class
+
+   #-----------------------#
+   |    Compressed Files   |
+   #-----------------------#
+
+*.jar
+*.war
+*.ear
+
+###############################
+#        MISCELLANEOUS        #
+###############################
+
+.DS_Store
+
+###############################
+#                             #
+#  Copyright (c) 2018 Adrian  #
+#     Gjerstad. All rights    #
+#          reserved.          #
+#                             #
+#   Licensed under the MIT    #
+#          License.           #
+#                             #
+###############################
